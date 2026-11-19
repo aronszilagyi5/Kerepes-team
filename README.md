@@ -1,2 +1,2 @@
 # Kerepes-team
-Közözs htmlé projekt
+Közös html projekt
